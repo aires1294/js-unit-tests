@@ -12,5 +12,5 @@
 */
 
 const average = () => {};
-
+primeiro commit
 module.exports = average;
