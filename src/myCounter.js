@@ -19,10 +19,10 @@ const myCounter = () => {
   var myArray = [];
   for (var counter = 0; counter <= 3; counter += 1) {
     myArray.push(counter);
-    //console.log(counter);
+    // console.log(counter);
     for (var index = 2; index <= 3; index += 1) {
       myArray.push(index);
-      //console.log(index);
+      // console.log(index);
     }
   }
   return myArray;

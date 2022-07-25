@@ -59,5 +59,5 @@ const arrayGenerator = (type, object) => {
 
 module.exports = { calculator, arrayGenerator };
 
-//console.log(calculator(1, 2));
-//console.log(arrayGenerator('entries', calculator(1, 2)));
+// console.log(calculator(1, 2));
+// console.log(arrayGenerator('entries', calculator(1, 2)));
